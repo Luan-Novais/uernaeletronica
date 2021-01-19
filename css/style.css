@@ -11,7 +11,7 @@ body{
 
 .urna{
     display: flex;
-    width:50%;
+    width:55%;
     margin: auto;
     background-color: #dbd5c9;
     padding: 30px;
@@ -159,7 +159,7 @@ body{
 }   
 
 .aviso-grande{
-    font-size: 40px;
+    font-size: 37px;
     font-weight: bold;
 }
 
